@@ -25,7 +25,6 @@
   <h3> 🤝🏻 &nbsp;Contact-Me </h3>
 
 <p align="center">
-<a href="https://cameronthompson.io"><img src="https://img.shields.io/badge/-cameronthompson.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://discord.gg/K4nFt5nN8A"><img src="https://img.shields.io/badge/-Discord%20Server-0077B5?style=flat-square&logo=Discord&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/-warzyyx#3636-0077B5?style=flat-square&logo=Discord&logoColor=white"/></a>
+<a href="https://discord.gg/K4nFt5nN8"><img src="https://img.shields.io/badge/-warzyyx#3636-0077B5?style=flat-square&logo=Discord&logoColor=white"/></a>
 <a href="mailto:contact.warzyyx@gmail.com"><img src="https://img.shields.io/badge/-contact.warzyyx@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
