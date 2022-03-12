@@ -2,11 +2,12 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🟠 &nbsp; I programm with Lua Langage for the FiveM Plateform
-- 🧰 I currently work with Lua, JS, Py.
-- 🎓 &nbsp; I lean in France and would like to work in cybersecurity or in aeronautics
+- 🟠 &nbsp; I program with Lua Langage for the FiveM Plateform.
+- 🧰 &nbsp; I currently work with Lua, JS, Py.
+- 🎓 &nbsp; I learn in France and would like to work in cybersecurity or in aeronautics.
+- ✈️&nbsp; I'm passionate by the aeronautics, and aircrafts. I'm going to get my PPL (Private Pilot License)
 
-<h3> 🛠 &nbsp;Skill</h3>
+<h3> 🛠 &nbsp;Skills</h3>
 
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
