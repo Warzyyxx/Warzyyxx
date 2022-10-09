@@ -22,7 +22,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
-  <h3> 🤝🏻 &nbsp;Contact-Me </h3>
+<h3> 🤝🏻 &nbsp;Contact-Me </h3>
   
 <p align="center">
 <a href="https://discord.gg/kp4VJv9CPu"><img src="https://img.shields.io/badge/-Discord%20Server-0077B5?style=flat-square&logo=Discord&logoColor=white"/></a>
