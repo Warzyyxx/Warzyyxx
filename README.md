@@ -3,7 +3,7 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🟠 &nbsp; I program with Lua Langage for the FiveM Plateform.
-- 🧰 &nbsp; I currently work with Lua, JS, Py.
+- 🧰 &nbsp; I currently work with Lua, JS, Python.
 - 🎓 &nbsp; I learn in France and would like to work in cybersecurity or in aeronautics.
 - ✈️&nbsp; I'm passionate by the aeronautics, and aircrafts. I'm going to get my PPL (Private Pilot License)
 
